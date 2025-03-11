@@ -1,7 +1,6 @@
 package com.example.broadcastreceiver.data
 
 import android.content.Context
-import com.example.data.model.UserConfig
 import kotlinx.coroutines.flow.Flow
 
 class PreferencesRepository(private val context: Context) {

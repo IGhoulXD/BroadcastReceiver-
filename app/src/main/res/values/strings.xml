@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
   ~ Copyright (C) 2023 The Android Open Source Project
   ~
@@ -21,3 +22,8 @@
     <string name="placeholder_success">Placeholder text</string>
     <string name="mars_photo">Mars photo</string>
 </resources>
+=======
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+</resources>
+>>>>>>> 8640b5a (Codigo actualizado)

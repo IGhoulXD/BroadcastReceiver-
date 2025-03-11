@@ -1,10 +1,9 @@
-package com.example.data
-
-import com.example.broadcastreceiver.data.UserPreferences
+package com.example.data..domain
 
 import android.content.Context
 import android.telephony.SmsManager
 import android.util.Log
+import com.tuapp.data.local.UserPreferences
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.runBlocking
 

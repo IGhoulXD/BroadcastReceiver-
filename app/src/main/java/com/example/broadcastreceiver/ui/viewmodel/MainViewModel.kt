@@ -3,9 +3,8 @@ package com.example.broadcastreceiver.ui.viewmodel
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.broadcastreceiver.data.UserPreferences
-import com.example.data.model.UserConfig
-
+import com.tuapp.data.local.UserPreferences
+import com.tuapp.data.model.UserConfig
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
