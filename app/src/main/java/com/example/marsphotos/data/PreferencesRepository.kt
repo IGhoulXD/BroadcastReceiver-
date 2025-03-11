@@ -1,7 +1,7 @@
-package com.example.broadcastreceiver.data
+package com.example.marsphotos.data
 
 import android.content.Context
-import com.example.data.model.UserConfig
+import com.example.marsphotos.model.UserConfig
 import kotlinx.coroutines.flow.Flow
 
 class PreferencesRepository(private val context: Context) {

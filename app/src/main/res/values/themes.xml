@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
 <!--
   ~ Copyright (C) 2023 The Android Open Source Project
   ~
@@ -18,9 +17,3 @@
 <resources>
     <style name="Theme.MarsPhotos" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
-=======
-<resources>
-
-    <style name="Theme.BroadcastReceiver" parent="android:Theme.Material.Light.NoActionBar" />
-</resources>
->>>>>>> 8640b5a (Codigo actualizado)

@@ -1,4 +1,4 @@
-package com.example.data.model
+package com.example.marsphotos.model
 
 data class UserConfig(
     val phoneNumber: String,
